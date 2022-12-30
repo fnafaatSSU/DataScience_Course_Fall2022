@@ -6,7 +6,6 @@
 4. There is a huge ecosystem of Python libraries for data science.
 5. Python is efficient and scalable.
 6. Python has a strong community.
-7. 
 ## Description
 
 Now is the time to learn Python for data science! Python is an essential and valuable tool in the field of data science, and for good reason. It is easy to learn and has a wealth of open-source libraries for mathematics, statistics, data visualization, and data modeling. Many top tech companies use Python for their advanced applications, including face recognition, object detection, natural language processing, and content generation. Python is also efficient, scalable, and production-ready, and has a strong and supportive community. These factors make Python a valuable language to learn for anyone interested in data science.
