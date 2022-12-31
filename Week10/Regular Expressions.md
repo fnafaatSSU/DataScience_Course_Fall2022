@@ -1,3 +1,7 @@
+# This weel Lecture 
+
+During this week, our focus will be on understanding regular expressions in the context of Python programming.
+
 # Regular expressions
 
 Regular expressions (also known as regex) are a powerful tool for matching patterns in strings. 
