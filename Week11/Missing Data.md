@@ -1,5 +1,5 @@
 
-# Missing data
+# Missing Data
 
 Missing data, also known as missing values, refers to data that are not available in a dataset for a particular observation or feature. 
 This can occur for a variety of reasons, such as errors in data collection, data that was not collected for a particular observation, or data that was lost or corrupted during storage or transmission.
